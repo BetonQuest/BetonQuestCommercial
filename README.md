@@ -44,7 +44,7 @@ Invoices are usually sent by **email** (preferred), but I can also send them dir
 
 ### Contact
 
-- The best way to contact me is directly via **Discord*: `wolf2323gabriel`
+- The best way to contact me is directly via **Discord**: `wolf2323gabriel`
 - Alternatively, you can open an **issue** in this repository: [create issue](https://github.com/BetonQuest/BetonQuestCommercial/issues/new)
 
 
