@@ -30,7 +30,13 @@ If you are interested in commissioning me for custom development, please read th
   - For invoices exceeding **150 €**, payment can be split into multiple installments.
 
 - **Payment Method:**  
-  - Currently, payments are made via **bank transfer**. All necessary details are included on the invoice.
+  - Currently, the preferred method for payments is via **bank transfer**. All necessary details are included on the invoice.
+  - **OpenCollective** is an alternative way to pay, but not preferred, as it has one mayor drawback.
+    OpenCollective, our so-called "fiscal host", takes a **10% fee** on all transactions.
+    This means you need to pay `amount / 0.9` to cover the fee.
+    It has also one advantage, you can stay anonymous, if you want,
+    because the invoice will be issued to OpenCollective and not to you.
+    So basically you spend some money to the BetonQuest OpenCollective project and I get my money from there.
   - **PayPal is currently not accepted** (as it would require a business PayPal account).
   - If you prefer other payment methods, feel free to ask — I may consider adding more options in the future.
 
