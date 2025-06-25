@@ -37,7 +37,7 @@ If you are interested in commissioning me for custom development, please read th
     It has also one advantage if you want this, you stay anonymous,
     because the invoice will be issued to OpenCollective and not to you.
     But this will also mean that you will not get an invoice at all.
-    So basically you spend some money to the BetonQuest OpenCollective project and I get my money from there.
+    So basically you donate some money to the BetonQuest OpenCollective project and I get payed from there.
   - **PayPal is currently not accepted** (as it would require a business PayPal account).
   - If you prefer other payment methods, feel free to ask — I may consider adding more options in the future.
 
