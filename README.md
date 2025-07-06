@@ -83,7 +83,7 @@ If you are interested in a service contract, please contact me directly, but the
 4. **Addons**
    - Access to all current add-ons for BetonQuest developed by me
 
-This service contract is paid monthly and can be canceled at any time with a notice period of 2 weeks to the end of the month.
+This service contract is paid only via **bank transfer** on a monthly schedule and can be canceled at any time with a notice period of 2 weeks to the end of the month.
 
 ### Standard Service Contract
 
